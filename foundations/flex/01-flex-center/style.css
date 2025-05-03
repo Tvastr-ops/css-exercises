@@ -1,4 +1,7 @@
 .container {
+  display: flex;
+  justify-content: center; /* Aligns items horizontally in the center */
+  align-items: center; /* Aligns items vertically in the center */
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
